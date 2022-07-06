@@ -49,6 +49,10 @@ body{
     font-weight: bold;
     border-radius: 20px; 
 }
+.tk{
+     color:black;
+     background-color: aqua;
+}
 
 .amount{
     text-align: center;
